@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "MARKPool",
-"description": "Howdy, My name is Mark… but this is your pool.  I can only hope you will allow me the opportunity to run it for you. With your feedback I think we can do some great things.  I don't have much to pledge yet but I plan on putting pool margin towards it.",
+"description": "Howdy, My name is Mark… but this is your pool.  I can only hope you will allow me the oppor$
 "ticker": "MARK",
 "homepage": "https://markpool.markraybin.com"
 }
-EOF
